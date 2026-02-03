@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "LexusNavController",
+  "version": "1.0.0",
+  "description": "Arduino library to interface with the Lexus IS200/IS300/Toyota Altezza Navigation Controller (UART 2400 8N1).",
+  "authors": [
+    {
+      "name": "Anyzun",
+      "email": "anyzunsoft@gmail.com",
+      "maintainer": true
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyzunstudios/Arduino-LexusNavController"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}

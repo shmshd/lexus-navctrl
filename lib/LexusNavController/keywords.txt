@@ -1,0 +1,15 @@
+LexusNavController	KEYWORD1
+LNR_Button          KEYWORD1
+
+begin	KEYWORD2
+update	KEYWORD2
+available	KEYWORD2
+poll	KEYWORD2
+press	KEYWORD2
+setShowHex	KEYWORD2
+setAutoPrint	KEYWORD2
+setDebounceMs	KEYWORD2
+setFrameTimeoutMs	KEYWORD2
+addPattern	KEYWORD2
+lastFrame	KEYWORD2
+lastFrameLen	KEYWORD2
